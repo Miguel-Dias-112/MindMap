@@ -1,0 +1,19 @@
+.nó{
+    position: absolute;
+    width: 70px;
+    height: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+word-break:break-all ;
+    border:1px solid royalblue;
+    color: royalblue;
+    text-align: center;
+    z-index: 4;
+    background-color: white;
+    border-radius:4px;
+    -webkit-user-select: none; /* Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+/Edge */
+user-select: none; /* Standard */
+    line-height: 26px;
+    }

@@ -1,0 +1,15 @@
+
+.top{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6%;
+    box-shadow: gainsboro 0px 5px 5px;
+    width: 100%;
+    z-index: 11;
+}
+.img{
+    position: absolute;
+    left: 10px;
+    height: 100%;
+}

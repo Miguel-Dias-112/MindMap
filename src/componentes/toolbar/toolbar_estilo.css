@@ -1,0 +1,35 @@
+
+.toolbar_main{
+    z-index: 2;
+    background-color: white;
+    position: absolute;
+    width:50px;
+    height: 94%;
+    bottom: 0px;
+    left:  0px;
+    border-right: 2px royalblue solid;
+}
+.toolbar_container{
+    position:absolute ;
+    width:190px;
+    height:30px;
+    left: 8px;
+    top: 10px;
+    border: 0px black solid;
+}
+.toolbar_botão{
+    position: absolute;
+    width:30px;
+    height: 30px;
+    left: 0px;
+    top: 0;
+    border-radius: 3px;
+    
+    border: 1px white solid;
+}
+.toolbar_img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
